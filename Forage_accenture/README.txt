@@ -1,0 +1,1 @@
+This folder has all the files that were given as datasets to analyse and suggest insights to a fictisitious company called "Social Buzz" and the files I created as I did the necessary analysis  and presented teh insights obtained as a PowerBI dashboard and a small ppt. 
